@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Мясо в собственном соку",
+        "TotalIngredients": 5,
+        "RequiredIngredients":
+        [
+            {
+              "Name": "Meat",
+              "Amount": 5
+            }
+        ]
+    },
+    {
+        "Name": "Мясо с гарниром",
+        "TotalIngredients": 5,
+        "RequiredIngredients":
+        [
+            {
+              "Name": "Meat",
+              "Amount": 4
+            }
+        ]
+    },
+    {
+        "Name": "Рагу",
+        "TotalIngredients": 5,
+        "RequiredIngredients":
+        [
+            {
+              "Name": "Meat",
+              "Amount": [2, 3]
+            }
+        ]
+    },
+    {
+        "Name": "Овощное рагу",
+        "TotalIngredients": 5,
+        "RequiredIngredients":
+        [
+            {
+              "Name": "Meat",
+              "Amount": 0
+            }
+        ]
+    },
+    {
+        "Name": "Луковый суп",
+        "TotalIngredients": 5,
+        "RequiredIngredients":
+        [
+            {
+              "Name": "Onion",
+              "Amount": [4, 5]
+            }
+        ]
+    },
+    {
+        "Name": "Картофельное пюре",
+        "TotalIngredients": 5,
+        "RequiredIngredients":
+        [
+            {
+              "Name": "Potato",
+              "Amount": [4, 5]
+            }
+        ]
+    },
+    {
+        "Name": "Суп",
+        "TotalIngredients": 5
+    }
+] 

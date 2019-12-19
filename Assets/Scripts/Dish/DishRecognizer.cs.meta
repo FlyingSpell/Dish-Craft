@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ac91cae588b85be46a8ec96bef76d120
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentDish: {instanceID: 0}
+  - cookbook: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

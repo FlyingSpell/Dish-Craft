@@ -1,0 +1,34 @@
+[
+    {
+      "Name": "Meat",
+      "RusName": "Мясо",
+      "Score": "50",
+      "SpritePath":"Sprites/Ingredients/IngredientMeat"
+    },
+    {
+      "Name": "Onion",
+      "RusName": "Лук",
+      "Score": "40",
+      "SpritePath":"Sprites/Ingredients/IngredientOnion"
+    },
+    {
+      "Name": "Pepper",
+      "RusName": "Перец",
+      "Score": "30",
+      "SpritePath":"Sprites/Ingredients/IngredientPeppers"
+    },
+    {
+      "Name": "Carrot",
+      "RusName": "Морковь",
+      "Score": "20",
+      "SpritePath":"Sprites/Ingredients/IngredientCarrot",
+      "Rotation": 90
+    },
+    {
+      "Name": "Potato",
+      "RusName": "Картофель",
+      "Score": "10",
+      "SpritePath":"Sprites/Ingredients/IngredientPotato",
+      "Rotation": 90
+    }
+]
